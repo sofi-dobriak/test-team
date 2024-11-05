@@ -1,5 +1,7 @@
 .header {
   padding: 20px 0;
+  background-color: aqua;
+  background-image: url(../img/logo.svg);
 }
 .nav {
   display: flex;
